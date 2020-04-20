@@ -12,7 +12,7 @@ namespace LibraryManager
 		
 		static void Main()
 		{ 
-		//		static int GetDamerauLevenshteinDistance(string s, string t) komentarz dla commita tekst
+		//		static int GetDamerauLevenshteinDistance(string s, string t) 
 		//{
 
 		//	s = s.ToLowerInvariant();
@@ -33,7 +33,7 @@ namespace LibraryManager
 		//		}
 		//	}
 		//	return matrix[bounds.Height - 1, bounds.Width - 1];
-		//} to jest metoda, która pozwala literówki
+		//} to jest metoda, która pozwala literówki bla bla bla bla bla
 
 		
 			int input;
