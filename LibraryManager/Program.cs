@@ -12,7 +12,7 @@ namespace LibraryManager
 		
 		static void Main()
 		{ 
-		//		static int GetDamerauLevenshteinDistance(string s, string t) 
+		//		static int GetDamerauLevenshteinDistance(string s, string t) dodaję teraz tekst testowy, żeby zobaczyć, co się stanie, jak zrobię commit
 		//{
 
 		//	s = s.ToLowerInvariant();
