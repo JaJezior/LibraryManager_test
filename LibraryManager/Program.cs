@@ -33,7 +33,7 @@ namespace LibraryManager
 		//		}
 		//	}
 		//	return matrix[bounds.Height - 1, bounds.Width - 1];
-		//} to jest metoda, która pozwala literówki bla bla bla bla bla
+		//} to jest metoda, która pozwala literówki
 
 		
 			int input;
